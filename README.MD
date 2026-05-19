@@ -51,5 +51,3 @@ Install dependencies:
 npm install
 
 node slot.js
-
-Developed by abraaoviktor003
